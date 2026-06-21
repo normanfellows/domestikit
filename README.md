@@ -1,2 +1,2 @@
-# nf-domestikit
+# domestikit
 Research into a worldwide dwelling service
