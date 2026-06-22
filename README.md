@@ -7,7 +7,4 @@ This repository forms part of an evolving research catalogue investigating progr
 
 An ongoing investigation ...
 
-https://doi.org/10.5281/zenodo.20788300
-
-[![DOI](https://zenodo.org/badge/1249898235.svg)](https://doi.org/10.5281/zenodo.20788300)
-
+[DOI: 10.5281/zenodo.20788300](https://doi.org/10.5281/zenodo.20788300)
